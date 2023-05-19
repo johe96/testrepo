@@ -1,0 +1,19 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "calculator app thing",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Jonny He",
+  "license": "ISC"
+}
